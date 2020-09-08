@@ -23,17 +23,17 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://vegankitchen.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-vegankitchen-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vegankitchen.netlify.app/"><img alt="Mysite" src="https://img.shields.io/badge/Website-vegankitchen-blue?style=flat-square&logo=google-chrome"></a>
 
 
 
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
 
 
 
 
 <!--
+⭐️ From [AVS1508](https://github.com/AVS1508)
 **alitunaarel/alitunaarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
