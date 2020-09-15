@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C# | R (Statistics) |
+- 💻 &nbsp; | JavaScript | C# | 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; T-SQL | MongoDB
+- 🛢 &nbsp; T-SQL | MongoDB / Express.js
 - 🔧 &nbsp; Git | Markdown |
 
 <br/>
