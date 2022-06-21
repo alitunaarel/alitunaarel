@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; | JavaScript | C# | 
+- 💻 &nbsp; | JavaScript |TypeScript | 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; T-SQL | MongoDB / Express.js
 - 🔧 &nbsp; Git | Markdown |
