@@ -1,10 +1,5 @@
 <h2> Hey there! I'm Ali.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -16,7 +11,6 @@
 <br/>
 
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitunaarel&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
