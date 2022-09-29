@@ -3,7 +3,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; | JavaScript |TypeScript | React.js | Next.js
+- 💻 &nbsp; | JavaScript | TypeScript | React.js | Next.js
 - 🌐 &nbsp; HTML | CSS | StyledComponent | Bootstrap |
 - 🛢 &nbsp; T-SQL | MongoDB / Express.js
 - 🔧 &nbsp; Git | Markdown |
